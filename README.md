@@ -4,7 +4,7 @@ Also, i have a lot of legal knowledgment because i studied 4 years (2018-2022) l
 ## Skills and Experience
 
 - 🔭 I’m currently working on making my own portfolio website, and others websites with front and back-end. I'm using HTML5, CSS, JavaScript, Bootstrap, JQuery and Django.
-- 🌱 I’m currently learning django and to use of different frameworks to build responsive websites.
+- 🌱 I’m currently learning django and how to use of different frameworks to build responsive websites.
 - 🤔 I’m looking for help with project management, i would really like to learn how to start projects from scratch.
 - 💬 Ask me about videogames, because my knowledge in the matter is infinite ;)
 - 📫 How to reach me: you can contact me to my personal email: nicolascarmonarioseco@gmail.com
